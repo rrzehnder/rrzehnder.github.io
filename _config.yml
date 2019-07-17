@@ -8,8 +8,8 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: Zahnarztpraxis R&R Zehnder.
+    hero_title: Zahnarztpraxis R&R Zehnder
+    hero_description: In guten Händen seit 1986.
 
 # Contact form
 api_token: # Enter API token here
