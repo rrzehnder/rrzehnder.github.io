@@ -19,14 +19,14 @@ contact:
     phone: +41 (0)61 981 16 66
     emergency: +41 (0)61 261 15 15 
     # Check
-    email: zehnders@bluewin.ch
+    email: rrzehnder@protonmail.ch
     #Check
     address: Bohnygasse 10, <br> CH-4460 Gelterkinden
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_wednesday: 08:00 – 16:45
+tuesday_thursday: 08:00 – 18:00
+friday: 09:00 – 13:00 / 14:00-18.00
 
 # Testimonials
 # testimonials:
