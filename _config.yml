@@ -12,7 +12,7 @@ hero:
     hero_description: In guten Händen seit 1986.
 
 # Contact form
-api_token: # Enter API token here
+api_token: 5b3cf76eb9a4b784949a9ba09f49122a
 
 # Contact info
 contact:
